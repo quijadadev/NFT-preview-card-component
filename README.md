@@ -23,7 +23,7 @@ Para realizar esse desafio, os usuários devem ser capaz de:
 
 ### Link da Solução 🔗
 
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
+- URL da solução: [Clique aqui para acessar a solução!](https://quijadadev.github.io/NFT-preview-card-component/#)
 
 ## Linguagens Utilizadas 🛠️
 
