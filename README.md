@@ -29,7 +29,7 @@ Para realizar esse desafio, os usuários devem ser capaz de:
 
 - HTML5: Para criar a estrutura semântica do componente.
 
-- CSS3: Para estilizar o cartão de pré-visualização, utilizando  Flexbox para criar um layout responsivo.
+- CSS3: Para estilizar o cartão de pré-visualização, utilizando Flexbox para criar um layout responsivo.
 
 ## Aprendizados obtidos 🧠
 
