@@ -85,6 +85,7 @@ main {
 .nft-card .info .price {
   color: var(--primary-medium);
   display: flex;
+  font-weight: bold;
 }
 
 /* Código para adicionar o ícone do ethereum ANTES do preço. */
